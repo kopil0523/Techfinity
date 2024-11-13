@@ -574,11 +574,12 @@ tab .p {
   }
 
   .value-icon {
-    width: 80px;
-    height: 80px;
+    width: 85px;
+    height: 85px;
   }
 
   .card-front h4 {
+    margin-top: 15px;
     font-size: 1.2em;
   }
 
@@ -611,6 +612,7 @@ tab .p {
   }
 
   .card-front h4 {
+    margin-top: 20px;
     font-size: 1em;
   }
 
@@ -1099,12 +1101,12 @@ footer {
 }
 
 footer p {
+  color: #2d2d2d; /* Green link color */
   margin: 0;
   font-size: 1em;
 }
 
 footer a {
-  color: #187e3c; /* Green link color */
   text-decoration: none;
   font-weight: bold;
   transition: color 0.3s;
